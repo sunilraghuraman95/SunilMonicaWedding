@@ -222,3 +222,7 @@ td,
 th {
 	padding: 0
 }
+
+.music {
+	display: none;
+}
